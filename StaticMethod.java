@@ -7,7 +7,7 @@ public class StaticMethod {
 		
 		int A = 52;
 		int B = 52;
-	    int c = A+B;
+	        int c = A+B;
 	System.out.println(c+z);
 	}
 	static {
