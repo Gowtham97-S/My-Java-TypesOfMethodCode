@@ -3,7 +3,7 @@ package TypeOfMethods;
 public class StaticMethod {
 
 	static int z = 20;
-	public static void add() {
+	public static void add() { //static method
 		
 		int A = 52;
 		int B = 52;
